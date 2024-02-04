@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Spopeer2/static/css/main.280a3fe2.css",
-    "main.js": "/Spopeer2/static/js/main.73ce6d5b.js",
+    "main.css": "/Spopeer2/static/css/main.4d50a92a.css",
+    "main.js": "/Spopeer2/static/js/main.1c621470.js",
     "static/js/592.f87e5dbc.chunk.js": "/Spopeer2/static/js/592.f87e5dbc.chunk.js",
     "static/media/jpeg": "/Spopeer2/static/media/92b19a4aa6910ccbe1e0a5dbc4a212e6.d55dd1280d7963b58f70.jpeg",
     "static/media/AirbnbCereal_W_XBd.otf": "/Spopeer2/static/media/AirbnbCereal_W_XBd.02ab4b6ebcf15122c467.otf",
     "static/media/AirbnbCereal_W_Md.otf": "/Spopeer2/static/media/AirbnbCereal_W_Md.81798c6cdace650a8c1a.otf",
     "static/media/logo.svg": "/Spopeer2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Spopeer2/index.html",
-    "main.280a3fe2.css.map": "/Spopeer2/static/css/main.280a3fe2.css.map",
-    "main.73ce6d5b.js.map": "/Spopeer2/static/js/main.73ce6d5b.js.map",
+    "main.4d50a92a.css.map": "/Spopeer2/static/css/main.4d50a92a.css.map",
+    "main.1c621470.js.map": "/Spopeer2/static/js/main.1c621470.js.map",
     "592.f87e5dbc.chunk.js.map": "/Spopeer2/static/js/592.f87e5dbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.280a3fe2.css",
-    "static/js/main.73ce6d5b.js"
+    "static/css/main.4d50a92a.css",
+    "static/js/main.1c621470.js"
   ]
 }
